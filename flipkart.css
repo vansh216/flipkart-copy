@@ -1,0 +1,102 @@
+ * {
+            padding: 0px;
+            margin: 0px;
+        }
+
+        body {
+            background-color: rgb(219, 212, 212);
+        }
+
+        .nav {
+           
+            display: flex;
+            background-color: white;
+            justify-content: space-around;
+            align-items: center;
+            height: 75px;
+            
+             
+            
+
+        }
+
+        .logos {
+            display: flex;
+        }
+
+        .search {
+            margin: 15px;
+        }
+
+        input {
+            width: 300px;
+            height: 35px;
+            background-color: rgb(252, 252, 252);
+            border: 2px solid rgb(180, 180, 245);
+            border-radius: 8px;
+        }
+
+        .login {
+            font-size: 30px;
+        }
+
+        .photoss {
+            font-size: 20px;
+        }
+
+        .photos {
+            display: flex;
+        }
+
+        .photo {
+            margin: 33px;
+        }
+
+        .add {
+            display: flex;
+            background-color: white;
+            margin-top: 8px;
+            justify-content: space-around;
+            height: 100px;
+        }
+
+        .only {
+            margin-top: 20px;
+            display: flex;
+            background-color: white;
+            justify-content: space-between;
+            height: 300px;
+            align-items: center;
+        }
+        .cards{
+            display: flex;
+            justify-content: space-between;
+            gap: 5px;
+            margin-top: 10px;
+        }
+        .card-img{
+            width: 50px;
+        }
+    .last{
+        background-color: rgba(2, 5, 5, 0.884);
+        color: aliceblue;
+        width: 100%vw;
+        height: 400px;
+        display: flex;
+        margin-top: 60px;
+        justify-content: space-around;
+    }
+    .buttom{
+        font-size: 20px;
+        margin: 5px;
+
+    }
+    .buttoms{
+        color: rgb(161, 160, 160);
+    }
+    .cards:hover{
+        width: 100px;
+        
+    }
+        
+        
